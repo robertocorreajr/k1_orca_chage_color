@@ -16,7 +16,7 @@ Python
 2. In OrcaSlicer, in `Others -> Post-processing Scripts`, add the following code edited depending on your system. For example, with Windows:
 
 ```
-C:\Windows\py.exe '<path-to-orcaslicer-folder>\k1-thumbs.py'
+C:\Windows\py.exe '<path-to-orcaslicer-folder>\k1-thumbs_and_colors.py'
 ```
 
 3. GCode sent from OrcaSlicer should now show the thumbnail on the K1's screen and other applicable Creality locations.
